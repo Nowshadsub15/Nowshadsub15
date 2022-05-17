@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nowshadsub15
-- 👀 I’m interested in Programming,Cubing,Reading,Playing Chess
-- 🌱 I’m currently learning nothing :)
-- 💞️ I’m looking to collaborate on nothing :)
-- 📫 How to reach me no way to reach me 
+- 👀 I’m interested in Programming,Cubing,Reading,Playing Chess and Mathematics
+- 🌱 I’m currently learning ________
+- 💞️ I’m looking to collaborate on ________
+- 📫 How to reach me ________ 
 
 <!---
 Nowshadsub15/Nowshadsub15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
