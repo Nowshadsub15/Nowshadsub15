@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nowshadsub15
-- 👀 I’m interested in Programming,Cubing,Reading,Playing Chess and Mathematics
-- 🌱 I’m currently learning ________
+- 👀 I’m interested in ________
 - 💞️ I’m looking to collaborate on ________
 - 📫 How to reach me ________ 
 
